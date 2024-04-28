@@ -1,2 +1,1 @@
-# cmp-v3-georules
-QA Test Stand with CMP V3 &amp; Geo-rules
+# https://ag-uc.github.io/cmp-v3-georules/
